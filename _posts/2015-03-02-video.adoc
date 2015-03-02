@@ -1,0 +1,6 @@
+= video
+
+:hp-tags: HubPress, Blog, caljbeut
+
+:hp-video: https://www.youtube.com/watch?v=CEp2Hd0fSjM
+
